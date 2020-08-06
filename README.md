@@ -1,2 +1,2 @@
 # projeto_tinta
-fiz para ajudar meu tio que trabalha com pintura
+para abrir digite python3  + e o nome do projeto
